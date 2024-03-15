@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Computer vision, Software developer**
+- 💬 Ask me about **Computer vision, Software development**
 
 - 📫 How to reach me **Aisha.ibr2412@gmail.com**
 
