@@ -66,7 +66,8 @@ A full-featured web application for browsing, managing, and booking online cours
 
 ## 📫 Contact
 
-- GitHub: https://github.com/AishaIbrahum
+- 📧 Email: aisha.ibr2412@gmail.com  
+- 🔗 GitHub: https://github.com/AishaIbrahum
 
 ---
 
