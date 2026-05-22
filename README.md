@@ -26,7 +26,7 @@ HTML • CSS • JavaScript • Responsive Design • UI/UX
 Python • Flask • Node.js (basic)
 
 ### 🗄️ Database
-SQLite • MySQL (basic)
+SQLite • MySQL 
 
 ### 🔧 Tools
 Git • GitHub • Docker (basic) • VS Code
