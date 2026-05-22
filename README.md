@@ -1,32 +1,34 @@
 # 👋 Aisha Ibrahim
 
-🚀 Full-Stack Developer | Building modern web apps & AI-powered systems
+🚀 Full-Stack Web Developer | Building scalable web applications & AI-powered systems
 
 ---
 
 ## 💡 About Me
 
-I am a passionate full-stack developer focused on building real-world scalable applications with clean UI, solid backend logic, and AI integration.
+Full-Stack Web Developer focused on building real-world, production-ready applications with clean architecture, responsive UI, and scalable backend systems.
 
-- 💻 Full-stack web development
-- 🧠 AI & intelligent systems enthusiast
-- 🏗️ Building real production-style projects
-- 🎯 Goal: Software Engineer in a top tech company
+I enjoy turning ideas into real products that solve problems using modern web technologies.
+
+- 💻 Web Application Development (Frontend + Backend)
+- 🧠 AI & Intelligent Systems Integration
+- 🏗️ Building scalable and user-focused platforms
+- 🎯 Goal: Software Engineer at a top tech company
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🌐 Frontend
 HTML • CSS • JavaScript • Responsive Design • UI/UX
 
-### Backend
-Python • Flask • Node.js 
+### ⚙️ Backend
+Python • Flask • Node.js (basic)
 
-### Database
-SQLite • MySQL 
+### 🗄️ Database
+SQLite • MySQL (basic)
 
-### Tools
+### 🔧 Tools
 Git • GitHub • Docker (basic) • VS Code
 
 ---
@@ -34,39 +36,40 @@ Git • GitHub • Docker (basic) • VS Code
 ## 🚀 Featured Projects
 
 ### ☕ Sip Coffee Website
-Responsive coffee shop website with product browsing, cart system, and checkout UI.
-
-🔗 Frontend project focused on UI/UX and JavaScript interactivity.
+A modern responsive coffee shop web application with product browsing, cart system, and checkout experience built using HTML, CSS, and JavaScript.
 
 ---
 
 ### 🏥 Naqaha Platform
-AI-powered medical tourism platform in Saudi Arabia.
-
-🔗 Includes patient management, booking system, and intelligent healthcare workflows.
+An AI-powered medical tourism platform in Saudi Arabia that connects patients with healthcare providers and provides booking, consultation, and personalized treatment workflows.
 
 ---
+
 ### 🎓 Course Booking Platform
-A full-stack course booking system where users can browse courses, view details, register accounts, and enroll in courses through a clean and responsive interface.
+A full-featured web application for browsing, managing, and booking online courses with user authentication, course details, and enrollment system.
 
 ---
 
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaIbrahum&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AishaIbrahum&theme=tokyo-night)
+
+---
+
 ## 📫 Contact
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaIbrahum&layout=compact&theme=tokyonight)
 - GitHub: https://github.com/AishaIbrahum
 
 ---
 
-## 📈 Activity Graph
+## ⭐ Closing Note
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AishaIbrahum&theme=tokyo-night)
-
-⭐ Always learning, always building, always improving.
+Always learning, always building, always improving.
