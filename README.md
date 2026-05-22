@@ -21,10 +21,10 @@ I am a passionate full-stack developer focused on building real-world scalable a
 HTML • CSS • JavaScript • Responsive Design • UI/UX
 
 ### Backend
-Python • Flask • Node.js (basic)
+Python • Flask • Node.js 
 
 ### Database
-SQLite • MySQL (basic)
+SQLite • MySQL 
 
 ### Tools
 Git • GitHub • Docker (basic) • VS Code
@@ -46,17 +46,11 @@ AI-powered medical tourism platform in Saudi Arabia.
 🔗 Includes patient management, booking system, and intelligent healthcare workflows.
 
 ---
-
-### 🧠 Smart Assistant Project
-AI-based assistant system for automation and user support.
-
-🔗 Focused on AI logic and real-world automation workflows.
+### 🎓 Course Booking Platform
+A full-stack course booking system where users can browse courses, view details, register accounts, and enroll in courses through a clean and responsive interface.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
 
 ---
 ## 📊 GitHub Stats
