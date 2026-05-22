@@ -1,23 +1,78 @@
-<h1 align="center">Hi 👋, I'm Aisha Ibrahim</h1>
-<h3 align="center">A Software Developer 👩‍💻</h3>
+# 👋 Aisha Ibrahim
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🚀 Full-Stack Developer | Building modern web apps & AI-powered systems
 
-- 🌱 I’m currently learning **AI & ML**
+---
 
-- 💬 Ask me about **Computer vision, Software development**
+## 💡 About Me
 
-- 📫 How to reach me **Aisha.ibr2412@gmail.com**
+I am a passionate full-stack developer focused on building real-world scalable applications with clean UI, solid backend logic, and AI integration.
+
+- 💻 Full-stack web development
+- 🧠 AI & intelligent systems enthusiast
+- 🏗️ Building real production-style projects
+- 🎯 Goal: Software Engineer in a top tech company
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • Responsive Design • UI/UX
+
+### Backend
+Python • Flask • Node.js (basic)
+
+### Database
+SQLite • MySQL (basic)
+
+### Tools
+Git • GitHub • Docker (basic) • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Sip Coffee Website
+Responsive coffee shop website with product browsing, cart system, and checkout UI.
+
+🔗 Frontend project focused on UI/UX and JavaScript interactivity.
+
+---
+
+### 🏥 Naqaha Platform
+AI-powered medical tourism platform in Saudi Arabia.
+
+🔗 Includes patient management, booking system, and intelligent healthcare workflows.
+
+---
+
+### 🧠 Smart Assistant Project
+AI-based assistant system for automation and user support.
+
+🔗 Focused on AI logic and real-world automation workflows.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
+## 📫 Contact
 
 
-<p align="left">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaIbrahum&layout=compact&theme=tokyonight)
+- GitHub: https://github.com/AishaIbrahum
 
-<h3 align="left">Languages and Tools:</h3>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishaibrahum&show_icons=true&locale=en&layout=compact" alt="aishaibrahum" /></p>
+## 📈 Activity Graph
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishaibrahum&show_icons=true&locale=en" alt="aishaibrahum" /></p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AishaIbrahum&theme=tokyo-night)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishaibrahum&" alt="aishaibrahum" /></p>
+⭐ Always learning, always building, always improving.
