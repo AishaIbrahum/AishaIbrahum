@@ -4,22 +4,22 @@
 
 # 👋 Aisha Ibrahim
 
-**Full-Stack Developer | Frontend Specialist | UI/UX Focused**
+**Frontend Developer | Full-Stack Developer | AI-Enthusiast**
 
 ---
 
 ## 💡 About Me
 
-Full-Stack Developer with a strong focus on **Frontend development and UI/UX design**, while also working with backend systems to build complete web applications.
+Full-Stack Developer with a strong focus on **Frontend development and UI/UX design**, along with a solid foundation in backend development and a broad background in **Artificial Intelligence and intelligent systems**.
 
-I enjoy creating modern, responsive, and user-friendly digital experiences that combine clean design with solid functionality.
+I enjoy building modern, responsive, and user-centered web applications that combine clean design, functionality, and smart features.
 
 - Frontend Development (HTML, CSS, JavaScript)
 - UI/UX Design & Responsive Interfaces
 - Backend Development (Python, Flask, Node.js basics)
-- Building scalable full web applications
-- Basic AI integration for smarter user experiences
-- Goal: Full-Stack / Frontend Engineer in a top tech company
+- Strong background in Artificial Intelligence & AI systems
+- Integrating AI concepts into web applications
+- Goal: Software Engineer specializing in Frontend + AI systems
 
 ---
 
@@ -34,6 +34,9 @@ Python • Flask • Node.js (basic)
 **Database**  
 SQLite • MySQL
 
+**AI / Intelligent Systems**  
+Machine Learning Concepts • AI Integration Basics • Data-driven Applications
+
 **Tools**  
 Git • GitHub • VS Code • Figma
 
@@ -42,17 +45,17 @@ Git • GitHub • VS Code • Figma
 ## 🚀 Featured Projects
 
 ### ☕ Sip Coffee Website
-Modern responsive coffee shop website with clean UI, product display, and smooth user experience.
+Modern responsive coffee shop website focused on clean UI, product browsing, and smooth user experience.
 
 ---
 
 ### 👜 Kaza Class (UI/UX E-Commerce)
-Luxury fashion UI/UX concept with elegant design, product pages, and shopping cart interface.
+Luxury fashion UI/UX concept with elegant design, product showcase, and shopping cart interface.
 
 ---
 
 ### 🏥 Naqaha Platform
-AI-powered medical tourism platform connecting patients with healthcare services and booking workflows.
+AI-powered medical tourism platform connecting patients with healthcare providers and personalized journey planning.
 
 ---
 
@@ -63,6 +66,15 @@ AI-powered medical tourism platform connecting patients with healthcare services
 - Strong visual hierarchy  
 - Smooth user experience  
 - Consistent design systems  
+
+---
+
+## 🤖 AI Background
+
+- Understanding of AI concepts and applications  
+- Experience with integrating AI ideas into web platforms  
+- Interest in intelligent user experiences and automation  
+- Focus on combining AI with frontend systems for smarter apps  
 
 ---
 
@@ -83,4 +95,4 @@ AI-powered medical tourism platform connecting patients with healthcare services
 
 ## ⭐ Closing Note
 
-Building clean, modern, and meaningful web experiences — from frontend design to full-stack systems.
+Building clean, modern, and intelligent web experiences — combining frontend design, full-stack development, and AI thinking.
