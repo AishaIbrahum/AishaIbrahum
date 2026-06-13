@@ -1,74 +1,68 @@
 # 👋 Aisha Ibrahim
 
-🚀 Full-Stack Web Developer | Building scalable web applications & AI-powered systems
+**Full-Stack Web Developer | AI & Scalable Web Systems**
 
 ---
 
 ## 💡 About Me
 
-Full-Stack Web Developer focused on building real-world, production-ready applications with clean architecture, responsive UI, and scalable backend systems.
+Full-Stack Web Developer focused on building real-world applications with clean architecture, responsive design, and scalable backend systems.
 
-I enjoy turning ideas into real products that solve problems using modern web technologies.
+I enjoy transforming ideas into functional products using modern web technologies and AI integration.
 
-- 💻 Web Application Development (Frontend + Backend)
-- 🧠 AI & Intelligent Systems Integration
-- 🏗️ Building scalable and user-focused platforms
-- 🎯 Goal: Software Engineer at a top tech company
+- Web Application Development (Frontend & Backend)
+- AI & Intelligent Systems Integration
+- Scalable and user-focused platforms
+- Goal: Software Engineer in a top tech company
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+**Frontend**  
 HTML • CSS • JavaScript • Responsive Design • UI/UX
 
-### ⚙️ Backend
+**Backend**  
 Python • Flask • Node.js (basic)
 
-### 🗄️ Database
-SQLite • MySQL 
+**Database**  
+SQLite • MySQL
 
-### 🔧 Tools
-Git • GitHub • Docker (basic) • VS Code
+**Tools**  
+Git • GitHub • VS Code • Docker (basic)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ☕ Sip Coffee Website
-A modern responsive coffee shop web application with product browsing, cart system, and checkout experience built using HTML, CSS, and JavaScript.
+Responsive coffee shop web application with product browsing, cart system, and checkout experience.
 
 ---
 
 ### 🏥 Naqaha Platform
-An AI-powered medical tourism platform in Saudi Arabia that connects patients with healthcare providers and provides booking, consultation, and personalized treatment workflows.
+AI-powered medical tourism platform connecting patients with healthcare providers, offering booking, consultation, and personalized treatment workflows.
 
 ---
 
 ### 🎓 Course Booking Platform
-A full-featured web application for browsing, managing, and booking online courses with user authentication, course details, and enrollment system.
+Web application for browsing, managing, and booking online courses with authentication and enrollment system.
 
 ---
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishaIbrahum&layout=compact&theme=tokyonight&hide_border=true)
----
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AishaIbrahum&theme=tokyo-night)
+![Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: aisha.ibr2412@gmail.com  
-- 🔗 GitHub: https://github.com/AishaIbrahum
+- Email: aisha.ibr2412@gmail.com  
+- GitHub: https://github.com/AishaIbrahum
 
 ---
 
 ## ⭐ Closing Note
 
-Always learning, always building, always improving.
+Always learning, building, and improving.
