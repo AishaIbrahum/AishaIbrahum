@@ -1,26 +1,32 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aisha%20Ibrahim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 👋 Aisha Ibrahim
 
-**Full-Stack Web Developer | AI & Scalable Web Systems**
+**Full-Stack Developer | Frontend Specialist | UI/UX Focused**
 
 ---
 
 ## 💡 About Me
 
-Full-Stack Web Developer focused on building real-world applications with clean architecture, responsive design, and scalable backend systems.
+Full-Stack Developer with a strong focus on **Frontend development and UI/UX design**, while also working with backend systems to build complete web applications.
 
-I enjoy transforming ideas into functional products using modern web technologies and AI integration.
+I enjoy creating modern, responsive, and user-friendly digital experiences that combine clean design with solid functionality.
 
-- Web Application Development (Frontend & Backend)
-- AI & Intelligent Systems Integration
-- Scalable and user-focused platforms
-- Goal: Software Engineer in a top tech company
+- Frontend Development (HTML, CSS, JavaScript)
+- UI/UX Design & Responsive Interfaces
+- Backend Development (Python, Flask, Node.js basics)
+- Building scalable full web applications
+- Basic AI integration for smarter user experiences
+- Goal: Full-Stack / Frontend Engineer in a top tech company
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-HTML • CSS • JavaScript • Responsive Design • UI/UX
+HTML • CSS • JavaScript • Responsive Design • UI/UX • Flexbox • Grid
 
 **Backend**  
 Python • Flask • Node.js (basic)
@@ -29,40 +35,52 @@ Python • Flask • Node.js (basic)
 SQLite • MySQL
 
 **Tools**  
-Git • GitHub • VS Code • Docker (basic)
+Git • GitHub • VS Code • Figma
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ☕ Sip Coffee Website
-Responsive coffee shop web application with product browsing, cart system, and checkout experience.
+Modern responsive coffee shop website with clean UI, product display, and smooth user experience.
+
+---
+
+### 👜 Kaza Class (UI/UX E-Commerce)
+Luxury fashion UI/UX concept with elegant design, product pages, and shopping cart interface.
 
 ---
 
 ### 🏥 Naqaha Platform
-AI-powered medical tourism platform connecting patients with healthcare providers, offering booking, consultation, and personalized treatment workflows.
+AI-powered medical tourism platform connecting patients with healthcare services and booking workflows.
 
 ---
 
-### 🎓 Course Booking Platform
-Web application for browsing, managing, and booking online courses with authentication and enrollment system.
+## 🎨 UI/UX Focus
+
+- Clean and modern interfaces  
+- Mobile-first responsive design  
+- Strong visual hierarchy  
+- Smooth user experience  
+- Consistent design systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AishaIbrahum&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- Email: aisha.ibr2412@gmail.com  
-- GitHub: https://github.com/AishaIbrahum
+- 📧 Email: aisha.ibr2412@gmail.com  
+- 🔗 GitHub: https://github.com/AishaIbrahum  
 
 ---
 
 ## ⭐ Closing Note
 
-Always learning, building, and improving.
+Building clean, modern, and meaningful web experiences — from frontend design to full-stack systems.
